@@ -1,2 +1,2 @@
 # Othello
-Simple othello using python
+Implement some algorithms for the AI agent to play Othello (a.k.a Reversi).
